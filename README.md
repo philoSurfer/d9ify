@@ -2,7 +2,8 @@
 
 [![Deprecated](https://img.shields.io/badge/Pantheon-Deprecated-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#deprecated)
 
-The functionality is being written into terminus v3.0.
+The functionality has been replaced with a Terminus v3 plugin. (requires Terminus 3) 
+https://github.com/pantheon-systems/terminus-conversion-tools-plugin
 
 https://github.com/pantheon-systems/terminus/tree/v3.0
 
